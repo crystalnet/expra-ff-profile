@@ -1,0 +1,21 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+
+[INVALID]
+C:\Program Files\Adobe\Reader 11.0\Reader\AIR\nppdf32.dll|$
+1482005752000|$
+C:\Program Files\VideoLAN\VLC\npvlc.dll|$
+1386548296000|$
+C:\Program Files\Google\Update\1.3.33.7\npGoogleUpdate3.dll|$
+1510739087048|$
+C:\PROGRA~1\MICROS~1\Office16\NPSPWRAP.DLL|$
+1438329400000|$
+C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\npIntelWebAPIIPT.dll|$
+1379330258000|$
+C:\Program Files\Intel\Intel(R) Management Engine Components\IPT\npIntelWebAPIUpdater.dll|$
+1379330258000|$
